@@ -6,4 +6,6 @@ echo "enter your age \n"
 read AGE
 let fg=(50-$AGE)+$CY
 echo "the year is. " $fg
+echo all good
+
 
